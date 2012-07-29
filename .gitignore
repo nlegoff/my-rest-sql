@@ -10,3 +10,11 @@
 *.lai
 *.la
 *.a
+
+#code::blocks
+*.cbp
+*.depend
+
+#output
+/bin
+/obj
